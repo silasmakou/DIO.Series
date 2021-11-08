@@ -10,9 +10,7 @@
   </a>
 </p>
 
-
-
-
+![image](https://user-images.githubusercontent.com/79108882/140745319-acf915bb-da7f-4512-8eab-706931b0c5da.png)
 
 ## :books: Sobre
 
